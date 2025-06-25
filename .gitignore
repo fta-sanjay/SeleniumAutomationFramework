@@ -13,7 +13,7 @@ out/
 .idea/
 *.iml
 
-# Ignore Eclipse project files
+# Ignore Eclipse project file
 .project
 .classpath
 .settings/
