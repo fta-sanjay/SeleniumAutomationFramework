@@ -1,0 +1,20 @@
+# Ignore compiled class files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore build output folders
+target/
+bin/
+out/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Eclipse project file
+.project
+.classpath
+.settings/
+
