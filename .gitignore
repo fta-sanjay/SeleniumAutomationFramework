@@ -18,5 +18,3 @@ out/
 .classpath
 .settings/
 
-# Ignore Mac system files
-.DS_Store
